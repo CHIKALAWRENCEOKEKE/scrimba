@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #016f32;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 3.5rem;
+  font-weight: 900;
+  padding: 1.3em 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#message-el {
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: whitesmoke;
+  padding: 0.7em 0;
+}
+p {
+  font-size: 1.2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: whitesmoke;
+  padding: 0.5em;
+}
+
+button {
+  background-color: goldenrod;
+  color: #016f32;
+  padding: 0.5em 0;
+  width: 200px;
+  border-radius: 7px;
+  border: none;
+  margin-top: 1em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 1.5rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

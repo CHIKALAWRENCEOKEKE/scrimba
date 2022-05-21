@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+div {
+  width: 500px;
+}
+
+img {
+  width: 80%;
+}
+
+h1 {
+  padding: 0.5em 0;
+  font-family: cursive;
+  font-size: 2rem;
+}
+
+button {
+  border: solid blue 1px;
+  font-size: 1.3rem;
+  border-radius: 73px;
+  padding: 0.5em 0;
+  width: 184px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#error {
+  color: red;
+  font-size: 1rem;
+}
